@@ -3,6 +3,7 @@ linkypedia
 
 linkypedia is a webapp for seeing how 3rd party web content is being used on 
 wikipedia.
+Use for more and all about setup is given below :
 
 Setup
 -----
